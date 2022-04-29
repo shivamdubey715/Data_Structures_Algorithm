@@ -25,7 +25,7 @@ void Subsequence(int ind, vector<int> A, int arr[], int n)
 
 int main()
 {
-    int arr[] = {3, 1, 2};
+    int arr[] = {1, 2, 1};
     int n = 3;
     vector<int> A;
     Subsequence(0, A, arr, n);
